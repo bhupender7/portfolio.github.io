@@ -1,0 +1,212 @@
+/*--------------------------------resonsive ------------------------------------------*/
+
+
+
+
+@media (min-width: 768px) and (max-width: 991px){
+
+h1{
+	font-size: 37px;
+	font-weight: bold;
+}
+
+h2{
+    font-size:22px ;
+    font-weight: bold;
+}
+
+p{
+	font-size: 17px;
+}
+
+.headerset h1{
+    font-size: 62px
+}
+
+.headerset h2{
+    font-size: 32px
+}
+
+.about
+{
+	padding: 100px 0px 60px 0px;
+	height: 950px;
+}
+
+.achievements
+{
+	height: 800px;
+}
+.idol
+{
+	height: 700px;
+}
+
+.gallery{
+	height: 700px
+}
+.mani-para{
+	padding-top:  20px;
+ padding-top: 60px
+}
+
+}
+
+@media (min-width: 575px) and (max-width: 767px){
+
+h1{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+h2{
+    font-size:25px ;
+    font-weight: bold;
+}
+
+p{
+	font-size: 14px;
+}
+
+.headerset h2
+{
+	font-size: 30px;
+}
+
+.headerset h1
+{
+	font-size: 45px;
+	font-weight: bold;
+}
+
+.mani-para{
+	padding-top: 20px
+}
+
+.about
+{
+	padding: 100px 0px 60px 0px;
+	height: 900px;
+}
+
+.achievements
+{
+	height: 700px;
+}
+.idol
+{
+	height: 970px;
+}
+
+.gallery{
+	height: 850px
+}
+}
+
+@media (min-width: 480px) and (max-width: 574px){
+
+h1{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+h2{
+    font-size:25px ;
+    font-weight: bold;
+}
+
+p{
+	font-size: 17px;
+}
+
+
+.about
+{
+	padding: 100px 0px 60px 0px;
+	height: 1550px;
+}
+
+.achievements
+{
+	height: 1350px;
+}
+.idol
+{
+	height: 1150px;
+}
+
+.gallery{
+	height: 2000px;
+}
+.headerset h2
+{
+	font-size: 25px;
+}
+
+.headerset h1
+{
+	font-size: 47px;
+	font-weight: bold;
+}
+.mani-para{
+	padding-top: 30px;
+}
+
+}
+
+@media (max-width: 479px){
+
+
+h1{
+	font-size: 35px;
+	font-weight: bold;
+}
+
+h2{
+    font-size:20px ;
+    font-weight: bold;
+}
+
+p{
+	font-size: 15px;
+}
+
+
+.headerset h2
+{
+	font-size: 22px;
+}
+
+.headerset h1
+{
+	font-size: 42px;
+	font-weight: bold;
+}
+.about
+{
+	padding: 100px 0px 60px 0px;
+	height: 1450px;
+}
+
+.achievements
+{
+	height: 1200px;
+}
+.idol
+{
+	height: 1100px;
+}
+
+.gallery{
+	height: 1700px
+}
+
+.mani-para{
+	padding-top:  40px;
+}
+
+.idol-title
+{
+	font-size: 25px;
+}
+
